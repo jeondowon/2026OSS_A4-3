@@ -9,7 +9,6 @@ export default function App() {
           <h1>2-2 Semester Courses</h1>
           <p className="subtitle">수강 과목 관리 페이지</p>
         </div>
-        <span className="tag">STUDENT STARTER</span>
       </header>
       <CourseList />
       <footer className="bottom">

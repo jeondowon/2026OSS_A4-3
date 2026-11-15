@@ -29,7 +29,7 @@ body {
   font-size: 12px;
   letter-spacing: 0.16em;
   font-weight: 800;
-  color: #4b71ce;
+  color: #555555;
   text-transform: uppercase;
   margin: 0 0 8px;
 }
@@ -49,15 +49,6 @@ body {
   color: #788397;
   margin: 0;
   font-size: 15px;
-}
-.tag {
-  border-radius: 999px;
-  padding: 8px 12px;
-  color: #4568b4;
-  background: #e6edfe;
-  font-size: 12px;
-  font-weight: 700;
-  white-space: nowrap;
 }
 .stats {
   display: grid;
@@ -280,9 +271,6 @@ body {
   }
   .hero {
     align-items: flex-start;
-  }
-  .tag {
-    display: none;
   }
   .stats {
     gap: 7px;
