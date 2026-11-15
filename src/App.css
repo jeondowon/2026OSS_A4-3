@@ -46,7 +46,7 @@ body {
   margin: 0 0 9px;
 }
 .subtitle {
-  color: #788397;
+  color: #777777;
   margin: 0;
   font-size: 15px;
 }
@@ -58,14 +58,14 @@ body {
 }
 .stat {
   background: #fff;
-  border: 1px solid #e7ebf1;
+  border: 1px solid #e5e5e5;
   border-radius: 15px;
   padding: 19px 20px;
-  box-shadow: 0 3px 12px #273d5a05;
+  box-shadow: 0 3px 12px #00000005;
 }
 .stat span {
   font-size: 13px;
-  color: #788397;
+  color: #777777;
 }
 .stat strong {
   display: block;
@@ -81,10 +81,10 @@ body {
 }
 .panel {
   background: white;
-  border: 1px solid #e6ebf1;
+  border: 1px solid #e5e5e5;
   border-radius: 18px;
   padding: 25px;
-  box-shadow: 0 5px 21px #243c6409;
+  box-shadow: 0 5px 21px #00000009;
 }
 .panel-header {
   display: flex;
@@ -100,7 +100,7 @@ body {
 }
 .small-note {
   font-size: 12px;
-  color: #8a94a4;
+  color: #888888;
 }
 .add-form {
   display: flex;
@@ -109,11 +109,11 @@ body {
 }
 .input {
   width: 100%;
-  border: 1px solid #d9e1ee;
+  border: 1px solid #dddddd;
   border-radius: 9px;
   background: #fff;
   padding: 11px 12px;
-  color: #263245;
+  color: #222222;
   font: inherit;
   font-size: 14px;
   outline: none;
@@ -140,11 +140,11 @@ body {
   background: #444444;
 }
 .btn.secondary {
-  background: #edf1f8;
-  color: #526782;
+  background: #eeeeee;
+  color: #555555;
 }
 .btn.secondary:hover {
-  background: #dde6f4;
+  background: #dddddd;
 }
 .btn.danger {
   background: #fff1f0;
@@ -172,20 +172,20 @@ body {
   display: grid;
   grid-template-columns: 1fr 115px 145px;
   gap: 12px;
-  color: #8a94a4;
+  color: #888888;
   text-transform: uppercase;
   font-size: 11px;
   letter-spacing: 0.06em;
   font-weight: 800;
   padding: 10px 15px;
-  border-bottom: 1px solid #edf0f5;
+  border-bottom: 1px solid #eeeeee;
 }
 .course-row {
   display: grid;
   grid-template-columns: 1fr 115px 145px;
   align-items: center;
   gap: 12px;
-  border-bottom: 1px solid #edf0f5;
+  border-bottom: 1px solid #eeeeee;
   padding: 16px 15px;
 }
 .course-row:last-child {
@@ -204,19 +204,19 @@ body {
 }
 .course-title.done {
   text-decoration: line-through;
-  color: #9ca7b7;
+  color: #999999;
 }
 .course-id {
   font-size: 11px;
-  color: #9ca7b7;
+  color: #999999;
   margin-top: 5px;
 }
 .category {
   font-size: 12px;
-  background: #eff3fa;
+  background: #f0f0f0;
   padding: 5px 9px;
   border-radius: 999px;
-  color: #5e718e;
+  color: #555555;
   display: inline-block;
 }
 .actions {
@@ -233,12 +233,12 @@ body {
 }
 .empty {
   padding: 34px 10px;
-  color: #788397;
+  color: #777777;
   text-align: center;
 }
 .bottom {
   margin-top: 16px;
-  color: #95a0ae;
+  color: #999999;
   font-size: 12px;
   display: flex;
   justify-content: space-between;
