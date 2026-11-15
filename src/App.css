@@ -239,14 +239,6 @@ body {
   justify-content: space-between;
   gap: 12px;
 }
-.todo {
-  color: #b77524;
-  background: #fff7e7;
-  border: 1px solid #f4e2bc;
-  padding: 10px 13px;
-  font-size: 12px;
-  margin-bottom: 15px;
-}
 .error {
   font-size: 12px;
   color: #c84f4b;
