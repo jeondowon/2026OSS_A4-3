@@ -7,7 +7,7 @@
     BlinkMacSystemFont,
     "Segoe UI",
     sans-serif;
-  color: #202c3c;
+  color: #222222;
   background: #f5f5f5;
   font-synthesis: none;
   text-rendering: optimizeLegibility;
@@ -119,8 +119,8 @@ body {
   outline: none;
 }
 .input:focus {
-  border-color: #658bdb;
-  box-shadow: 0 0 0 3px #658bdb24;
+  border-color: #111111;
+  box-shadow: 0 0 0 3px #11111124;
 }
 .btn {
   border: 0;
